@@ -1,4 +1,4 @@
-# Mapa de amenazas
+# Mapa de amenazas.
 
 Mapa mundial que muestra ataques informáticos en tiempo real como líneas animadas sobre un mapa oscuro. Tres tipos de ataque (DDoS, Malware, Intrusión), feed lateral con los últimos 8 y filtros por tipo.
 
